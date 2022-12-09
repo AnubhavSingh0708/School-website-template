@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="200.0px"
+   height="200.0px"
+   viewBox="0 0 200.0 200.0"
+   version="1.1"
+   id="SVGRoot"
+   sodipodi:docname="contact.svg"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview137"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="true"
+     inkscape:zoom="2.9006173"
+     inkscape:cx="169.10194"
+     inkscape:cy="94.635029"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid260" />
+  </sodipodi:namedview>
+  <defs
+     id="defs132">
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect1139"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect373"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:#004b9c;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+       d="M 4.1945243,101.01396 C 4.1369401,70.790387 7.9292365,41.256443 24.478214,24.592802 41.027192,7.9291601 70.330713,4.1369397 99.462867,4.3094939 128.59502,4.4820481 157.55379,8.6190156 174.15901,25.282909 c 16.60523,16.663893 20.85711,45.852497 21.08677,74.984391 0.22967,29.13188 -3.56256,58.20557 -20.11057,74.81079 -16.54802,16.60521 -45.85154,20.74218 -75.155825,21.6616 C 70.675098,197.65911 41.371576,195.3608 24.765411,178.75534 8.1592457,162.14989 4.2521086,131.23754 4.1945243,101.01396 Z"
+       id="path371"
+       inkscape:path-effect="#path-effect373"
+       inkscape:original-d="M 0.3447542,100.32347 C 4.1380504,70.79053 7.9303467,41.256586 11.721643,11.721643 41.027336,7.9302708 70.330857,4.1380504 99.633965,0.3447542 128.5949,4.4828874 157.55367,8.6198551 186.51202,12.755906 c 4.25306,29.190773 8.50494,58.379378 12.75591,87.567564 -3.79137,29.07586 -7.58359,58.14955 -11.37689,87.22282 -29.30369,4.13813 -58.60721,8.2751 -87.912321,12.41115 C 70.675026,197.66003 41.371504,195.36172 12.066397,193.06235 8.1601047,162.14978 4.2529685,131.23743 0.3447542,100.32347 Z" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:3.26929;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       d="m 36.543945,95.841669 c -2.528197,-0.459672 -5.055198,-0.919127 -8.273616,1.724048 -3.218419,2.643173 -7.125554,8.388963 -6.148178,14.939803 0.977377,6.55085 6.838076,13.90545 14.710042,24.24822 7.871965,10.34277 17.754522,23.67273 27.005409,28.26889 9.250887,4.59615 17.869356,0.45929 22.638258,-2.70069 4.768901,-3.15997 5.688226,-5.34337 4.424613,-8.73318 -1.263612,-3.38982 -4.711017,-7.98636 -7.699384,-8.90626 -2.988366,-0.9199 -5.516465,1.83802 -7.9296,3.84901 -2.413135,2.01099 -4.711452,3.27507 -6.837086,3.10322 -2.125633,-0.17185 -4.0792,-1.78067 -8.848467,-7.12436 -4.769267,-5.34369 -12.35371,-14.42204 -16.0316,-19.70841 -3.677889,-5.28637 -3.448058,-6.78027 -2.126412,-8.73432 1.321646,-1.95405 3.734877,-4.36728 4.309815,-6.60761 0.574938,-2.24034 -0.689113,-4.30879 -2.527697,-6.54982 -1.838583,-2.24103 -4.252817,-4.655264 -6.666097,-7.068541 z"
+       id="path1137"
+       inkscape:path-effect="#path-effect1139"
+       inkscape:original-d="m 36.543945,95.841669 c 0,0 -5.055342,-0.918335 -7.584591,-1.379017 -3.906295,5.747018 -7.81343,11.492808 -11.721644,17.237708 5.861939,7.35591 11.722643,14.71051 17.582465,22.06427 9.88415,13.33176 19.766707,26.66172 29.648861,39.99149 8.62003,-4.13614 17.238499,-8.273 25.856565,-12.41115 0.920367,-2.1825 1.839692,-4.36589 2.758034,-6.55033 -3.446614,-4.59582 -6.894019,-9.19236 -10.342626,-13.79017 -2.527245,2.75908 -5.055344,5.51701 -7.584592,8.2741 -2.297408,1.26512 -4.595726,2.5292 -6.895085,3.7923 -1.952646,-1.60789 -3.906214,-3.21671 -5.860821,-4.82656 -7.583744,-9.07771 -15.168185,-18.15606 -22.753778,-27.23558 0.230841,-1.49297 0.460673,-2.98687 0.689509,-4.48181 2.414327,-2.41233 4.827559,-4.82556 7.239838,-7.23984 -1.263121,-2.06756 -2.527172,-4.13601 -3.792296,-6.20558 -2.412327,-2.41232 -7.239839,-7.239831 -7.239839,-7.239831 z"
+       sodipodi:nodetypes="cccccccccccccccc" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:2.89133858;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-dasharray:none"
+       d="M 86.878059,32.406895 168.58481,29.304107 128.59332,60.331986 Z"
+       id="path1141" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:2.89134;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       d="M 86.878059,99.633965 H 172.72186 L 172.3771,32.751649 129.28282,67.22707 84.809534,37.578208 Z"
+       id="path1143"
+       sodipodi:nodetypes="cccccc" />
+    <text
+       xml:space="preserve"
+       style="font-size:21.33333333px;line-height:450.55;font-family:sans-serif;fill:#ffffff;fill-opacity:1"
+       x="56.884445"
+       y="119.62971"
+       id="text1199"><tspan
+         sodipodi:role="line"
+         id="tspan1197"
+         x="56.884445"
+         y="119.62971">Contact Us</tspan></text>
+  </g>
+</svg>

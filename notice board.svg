@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="200.0px"
+   height="200.0px"
+   viewBox="0 0 200.0 200.0"
+   version="1.1"
+   id="SVGRoot"
+   sodipodi:docname="notice board.svg"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview2145"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="true"
+     inkscape:zoom="2.9006173"
+     inkscape:cx="121.52586"
+     inkscape:cy="62.917642"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid2268" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2140">
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect4984"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect2431"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect2331"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:#004b9c;stroke:#004b9c;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+       d="M 3.677395,100.09463 C 3.562367,69.871069 6.7800083,39.418392 23.406217,22.859518 40.032426,6.3006436 70.064276,3.6379175 100.00112,3.8103931 c 29.93685,0.1724755 59.77492,3.1799423 76.5331,19.7388309 16.75817,16.558889 20.43541,46.666218 20.49275,76.775236 0.0573,30.10902 -3.50498,60.21635 -20.11047,76.82186 -16.6055,16.60551 -46.25318,19.70818 -76.13237,19.65082 C 70.90494,196.73978 40.797612,193.52221 24.018754,176.91671 7.2398954,160.3112 3.792423,130.3182 3.677395,100.09463 Z"
+       id="path2429"
+       inkscape:path-effect="#path-effect2431"
+       inkscape:original-d="M 0.34475419,100.32348 C 3.5634605,69.871185 6.7811018,39.418508 9.9978721,8.9636095 40.032522,6.3017238 70.064372,3.6389976 100.09702,0.97511215 c 29.84086,3.00864665 59.67893,6.01611335 89.51779,9.02276015 3.67845,30.1101357 7.35568,60.2174637 11.03213,90.3255977 -3.56153,30.11014 -7.12384,60.21747 -10.68737,90.32561 -29.64846,3.10385 -59.29614,6.20651 -88.94659,9.30836 -30.108134,-3.21677 -60.215462,-6.43435 -90.3256,-9.65312 C 7.240769,160.3111 3.7932965,130.31809 0.34475419,100.32348 Z"
+       sodipodi:nodetypes="ccccccccc" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+       d="M 31.372633,159.6212 29.648862,39.301979 170.30858,40.680996 167.20579,160.65545 Z"
+       id="path5012"
+       sodipodi:nodetypes="ccccc" />
+    <text
+       xml:space="preserve"
+       style="font-size:45.699px;line-height:450.55;font-family:sans-serif;fill:#ffffff;stroke-width:0.856857"
+       x="29.19874"
+       y="118.53301"
+       id="text5794"
+       transform="scale(1.00465,0.99537152)"><tspan
+         id="tspan5792"
+         x="29.19874"
+         y="118.53301"
+         sodipodi:role="line"
+         style="stroke-width:0.856857">Notice</tspan></text>
+    <circle
+       id="path6758"
+       style="fill:#ffffff;stroke:#004b9c"
+       cx="71.36412"
+       cy="90.3256"
+       r="0" />
+  </g>
+</svg>
