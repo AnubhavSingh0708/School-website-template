@@ -64,6 +64,9 @@ body{
     align-self: center;
 }
 .add-button{
+    border: none;
+    outline: none;
+    font-size: xx-large;
     z-index: 6;
     border-radius:20px;
     padding: 12px;
