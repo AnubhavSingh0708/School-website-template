@@ -41,7 +41,8 @@ setTimeout(() => {
   
 function check(){
  if( document.documentElement.scrollTop > 100){
-document.getElementById("nav").id = "navbar"; 
+    document.getElementById("nav").classList.remove("nav"); 
+document.getElementById("nav").classList.add("navbar"); 
 document.getElementById("l2").style.display="inline-block" ;
 document.getElementById("l22").style.display="inline-block" ;
 document.getElementById("l1").style.display="none" ;
@@ -49,7 +50,8 @@ document.getElementById("l1").style.display="none" ;
     
  }else{
  
-    document.getElementById("navbar").id = "nav";
+     document.getElementById("nav").classList.remove("navbar"); 
+document.getElementById("nav").classList.add("nav"); 
     document.getElementById("l2").style.display="none" ;
     
 document.getElementById("l22").style.display="none" ;
