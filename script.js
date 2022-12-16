@@ -1,6 +1,6 @@
 if ('serviceWorker' in navigator) {
     navigator.serviceWorker
-      .register('/sw.js')
+      .register('https://anubhavsingh0708.github.io/School-website-template/sw.js')
       .then(() => { console.log('Service Worker Registered'); });
   }
   
