@@ -6,6 +6,16 @@ self.addEventListener('install', (e) => {
         './bg.svg',
         './style.css',
         './drawing school logo.svg',
+        './drawing school logo.png',
+        './drawing.svg',
+        './exit.svg',
+        './nav.svg',
+        './notice board.svg',
+        './op.svg',
+        './results.svg',
+        './Untitled-1.svg',
+        './waves3.svg',
+        './zyro-image.jpg',
       ])),
     );
   });
