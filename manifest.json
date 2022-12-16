@@ -1,6 +1,8 @@
 {
     "short_name": "Some school",
     "name": "Some school",
+      "start_url": "https://anubhavsingh0708.github.io/School-website-template/",
+  "scope": "https://anubhavsingh0708.github.io/School-website-template/",
     "icons": [
       {
         "src": "drawing school logo.svg",
@@ -15,11 +17,9 @@
         "purpose" : "any maskable"
       }
     ],
-    "id": "./",
-    "start_url": "./",
+    "id": "https://anubhavsingh0708.github.io/School-website-template/",
     "background_color": "#f0f0f0",
     "display": "standalone",
-    "scope": "/",
     "theme_color": "#004b9c",
     
     "description": "Web app for Some school",
@@ -27,7 +27,7 @@
       {
         "src": "bg.svg",
         "type": "image/svg+xml",
-        "sizes": "40x40",
+        "sizes": "300x150",
         "form_factor": "narrow"
       }
     ]
