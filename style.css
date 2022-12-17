@@ -64,17 +64,15 @@ body{
     align-self: center;
 }
 .hidden{
-  opacity:0;
+  opacity:0.3;
 transition:all 1s;
-filter: blur(5px);
-transform: rotate(30deg) scale(0.5, 0.5) translate(-50px, 20px)translateZ(20px);
+filter: blur(10px);
+transform: rotate(15deg) scale(0.1, 0.1) translateZ(20px);
 }
 .show{
   filter: blur(0);
   opacity: 1;
-  transform: rotate(0deg);
-  transform: scale(1,1);
-  transform: translate(0px, 0px);
+  transform:rotate(0deg) scale(1, 1) translateZ(0px);
   }
 .add-button{
     border: none;
