@@ -58,7 +58,7 @@ body{
     padding: 12px;
     width: fit-content;
     margin:8px;
-    background-color: #00000010;
+    background-color: #00000020;
     backdrop-filter: blur(8px);
     box-shadow:  2px 2px 5px #0000000c,-2px -2px 5px #ffffff0f, inset  -1px -1px 5px rgba(0, 0, 0, 0.112), inset  1px 1px 5px rgba(255, 255, 255, 0.132);
     align-self: center;
@@ -95,7 +95,7 @@ right: 1px;
 .options:hover{
     backdrop-filter: blur(0px);
     background-color: #0000003f;
-    box-shadow:  2px 2px 5px #ffffff2c, inset  2px 2px 5px rgba(0, 0, 0, 0.125), inset  -2px -2px 5px rgba(255, 255, 255, 0.068);
+    box-shadow:  2px 2px 5px #ffffff2f, inset  2px 2px 5px rgba(0, 0, 0, 0.225), inset  -2px -2px 5px rgba(255, 255, 255, 0.068);
 }
 .options:active{
     backdrop-filter: blur(10px);
