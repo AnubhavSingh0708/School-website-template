@@ -65,8 +65,8 @@ body{
 }
 .hidden{
   opacity:0.3;
-transition:all 1s;
-filter: blur(5px) grayscale(100%) contrast(20);
+transition:all 1.2s;
+filter: blur(10px) grayscale(100%) contrast(200%);
 font-size:1px;
 
 
@@ -75,7 +75,7 @@ transform: rotate(10deg) scale(0.07, 0.07) translateZ(30px);
 .show{
 opacity:1;
 font-size:inherit;
-  filter: blur(0) grayscale(0%) contrast(0);
+  filter: blur(0px) grayscale(0%) contrast(100%);
   
   transform:rotate(0deg) scale(1, 1) translateZ(0px);
   }
