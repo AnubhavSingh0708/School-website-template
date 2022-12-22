@@ -98,6 +98,7 @@ right: 1px;
     
 }
 .options:hover{
+color:#ffffff;
     backdrop-filter: blur(0px);
     background-color: #0000003f;
     box-shadow:  2px 2px 5px #ffffff2f, inset  2px 2px 5px rgba(0, 0, 0, 0.225), inset  -2px -2px 5px rgba(255, 255, 255, 0.068);
