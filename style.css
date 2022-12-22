@@ -58,7 +58,7 @@ body{
     padding: 12px;
     width: fit-content;
     margin:21px;
-    background-color: #ffffff60
+    background-color: #ffffff90
     backdrop-filter: blur(12px);
     box-shadow:  2px 2px 5px #0000000f,-2px -2px 5px #ffffff02, inset  -1px -1px 5px rgba(0, 0, 0, 0.212), inset  1px 1px 5px rgba(255, 255, 255, 0.132);
     align-self: center;
